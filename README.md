@@ -5,8 +5,8 @@ Current Plugins:
 
 * Mosaique Neko Waifus 2 
 	1. BetterPlaying.dll
-		* Puzzle Solver ¤@Áä¸Ñ«÷¹Ï ¹w³]«ö S ¥s¥X´¡¥ó¤¶­±
-* Convenience Store without Skirts ¤£¬ï¸È¤lªº«K§Q°Ó©±
+		* Puzzle Solver ä¸€éµè§£æ‹¼åœ– é è¨­æŒ‰ S å«å‡ºæ’ä»¶ä»‹é¢
+* Convenience Store without Skirts ä¸ç©¿è£™å­çš„ä¾¿åˆ©å•†åº—
 	1. BetterPlaying.dll
-		* Dialogue Hotkey ¼öÁä­×¸É ¨Ï¥Î¼öÁä¨Ï¹ï¸Ü«e¶i¤U¤@¥y ¹w³]«ö Enter ¤U¤@¥y
-		* Show Base Sale Value ©ó¶i³f¤¶­±Åã¥Ü¡u°òÂ¦¾P°â¶q¡v©óª««~¦W¤§¤U ¹w³]¬° true
+		* Dialogue Hotkey å°è©±ç†±éµ ä½¿ç”¨ç†±éµä½¿å°è©±å‰é€²ä¸‹ä¸€å¥ é è¨­æŒ‰ Enter ä¸‹ä¸€å¥
+		* Show Base Sale Value æ–¼é€²è²¨ä»‹é¢é¡¯ç¤ºã€ŒåŸºç¤éŠ·å”®é‡ã€æ–¼ç‰©å“åä¹‹ä¸‹ é è¨­ç‚º true
